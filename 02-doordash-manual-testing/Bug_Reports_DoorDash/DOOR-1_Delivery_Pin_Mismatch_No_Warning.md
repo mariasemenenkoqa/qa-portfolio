@@ -16,6 +16,11 @@ High
 
 ---
 
+## Description
+Customer can move the delivery pin far away from the entered address without any validation or warning, while the textual address remains unchanged.
+
+---
+
 ## Preconditions
 - User is logged in as a Customer
 - User is adding a delivery address
