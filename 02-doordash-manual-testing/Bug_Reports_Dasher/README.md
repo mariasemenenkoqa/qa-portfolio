@@ -6,7 +6,6 @@ The selected reports demonstrate defects related to:
 
 - Order completion and post-delivery UI state
 - Routing and delivery location handling
-- Screen state inconsistencies across modules
 
 All defects were originally tracked and managed in Jira.
 
