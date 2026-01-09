@@ -3,7 +3,7 @@
 ---
 
 ## Bug ID
-DOOR-2
+DOOR-8
 
 ## Severity
 **Major**
