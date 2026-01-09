@@ -2,6 +2,8 @@
 
 Junior / Entry-Level QA Engineer (Manual Testing) with hands-on experience in manual testing of web and mobile applications, API testing using Postman, and basic SQL.
 
+Currently expanding skills in test automation.
+
 This portfolio demonstrates practical QA skills through real-world testing projects, including test planning, test execution, defect reporting, and test documentation.
 
 ---
