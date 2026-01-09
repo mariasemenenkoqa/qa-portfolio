@@ -5,9 +5,6 @@
 ## Bug ID
 BUG_SEARCH_002
 
-## Title
-System accepts decimal nights value and performs search with invalid duration
-
 ## Severity
 Critical
 
