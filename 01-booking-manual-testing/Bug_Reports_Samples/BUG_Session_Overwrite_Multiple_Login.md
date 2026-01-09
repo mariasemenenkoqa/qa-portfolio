@@ -5,9 +5,6 @@
 ## Bug ID
 BUG_SESSION_001
 
-## Title
-Session overwrite when signing in with another account in a different tab (Email / Google / Apple / Facebook)
-
 ## Severity
 Blocker
 
