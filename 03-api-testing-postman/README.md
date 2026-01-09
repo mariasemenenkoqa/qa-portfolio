@@ -39,8 +39,8 @@ Public REST APIs were tested to practice CRUD operations, negative scenarios, an
 ---
 
 ## Project Artifacts
-- Postman collection with all requests and test scenarios
-- Screenshots of request execution and responses
+- Postman Collection (public): [User Management API – Postman Collection](https://mariiasemenenkoga-5716473.postman.co/workspace/API-User-Management~30541b0a-4d0a-49ff-94e6-d2c593905b6a/collection/51298085-e68b23d0-1dfe-4f01-9a16-41d3b9a2db9e?action=share&source=copy-link&creator=51298085)
+- Screenshots of request execution and responses: [screenshots](screenshots)
 
 ---
 
