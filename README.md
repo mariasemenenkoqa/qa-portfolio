@@ -24,10 +24,10 @@ This portfolio demonstrates practical QA skills through real-world testing proje
 
 ### Tools
 - Jira + Zephyr Scale
-- Trello
 - Postman
 - GitHub
 - Google Sheets / Docs
+- Trello
 
 ---
 
