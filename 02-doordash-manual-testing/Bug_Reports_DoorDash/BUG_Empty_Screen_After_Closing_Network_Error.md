@@ -18,7 +18,7 @@ When a customer attempts to add an item to the cart while offline and closes the
 
 ## Preconditions
 - User is logged in as a Customer
-- User is on a Store page
+- User is on a Store screen
 
 ## Steps to Reproduce
 1. Enable Airplane mode (disable network connection)
