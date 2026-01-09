@@ -5,9 +5,6 @@
 ## Bug ID
 BUG_UI_003
 
-## Title
-Back button does not return user to Gallery after clicking "Reserve now" inside Gallery
-
 ## Severity
 Major
 
