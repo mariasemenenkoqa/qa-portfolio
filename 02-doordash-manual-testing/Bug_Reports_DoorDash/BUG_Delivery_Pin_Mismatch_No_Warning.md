@@ -5,9 +5,6 @@
 ## Bug ID
 DOOR-1
 
-## Title
-Customer can move delivery pin far from entered address without warning
-
 ## Severity
 Critical
 
