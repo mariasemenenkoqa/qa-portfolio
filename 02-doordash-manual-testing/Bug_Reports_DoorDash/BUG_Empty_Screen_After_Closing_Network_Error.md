@@ -1,4 +1,4 @@
-# Empty screen displayed after closing network error while adding item to cart
+# Bug Report: Empty screen displayed after closing network error while adding item to cart
 
 ---
 
