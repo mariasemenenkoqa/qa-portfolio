@@ -48,10 +48,10 @@ The following QA validation scenarios are covered in this project:
 
 ---
 
-## Project Files
-- **schema.sql** — database schema and table relationships
-- **test_data.sql** — sample test data
-- **qa_queries.sql** — SQL queries used for QA validation checks
+## 📄 Project Files
+- [**schema.sql**](./**schema.sql**) — database schema and table relationships
+- [**test_data.sql**](./**test_data.sql**) — sample test data
+- [**qa_queries.sql**](./**qa_queries.sql**) — SQL queries used for QA validation checks
 
 ---
 
